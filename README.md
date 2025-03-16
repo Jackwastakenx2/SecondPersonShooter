@@ -1,4 +1,4 @@
-![image](icon.png)
+![image](Icon.png)
 # SecondPersonShooter
 A Second Person Shooter Made (in Roblox) for Scrapyard Hackathon
 
